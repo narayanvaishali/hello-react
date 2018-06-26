@@ -1,0 +1,14 @@
+{
+  "development": {
+    "mongodbConnectionString": "mongodb://localhost/helloReact",
+    "superSecret": "M3rnStackSup3rS3cr3t",
+    "placeApiKey": "Insert Your Google Place Autocomplete API here",
+    "placeApiUrl": "https://maps.googleapis.com/maps/api/place/autocomplete/json?"
+  },
+  "production": {
+    "mongodbConnectionString": "mongodb://localhost/helloReact",
+    "superSecret": "M3rnStackSup3rS3cr3t",
+    "placeApiKey": "Insert Your Google Place Autocomplete API here",
+    "placeApiUrl": "https://maps.googleapis.com/maps/api/place/autocomplete/json?"
+  }
+}
